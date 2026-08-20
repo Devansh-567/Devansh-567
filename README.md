@@ -7,8 +7,7 @@ Pune, India · [Portfolio](https://devansh05.vercel.app) · [LinkedIn](https://l
 
 ### Executive Summary
 
-B.Tech Computer Science student at GH Raisoni University focused on low-level cryptography, AI infrastructure, and autonomous systems. Track record includes publishing peer-reviewed research with IEEE, maintaining open-source infrastructure tools with over 50k downloads, and serving as a peer reviewer for international technical conferences.
-
+B.Tech Computer Science student at GH Raisoni University specializing in low-level cryptography, software engineering, and core systems design. Track record includes publishing peer-reviewed research with IEEE, maintaining open-source infrastructure tools with 50K+ downloads on PyPI, and serving as an active peer reviewer for international technical conferences.
 ---
 
 ### Core Engineering Arsenal
