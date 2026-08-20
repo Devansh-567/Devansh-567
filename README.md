@@ -5,15 +5,12 @@ Pune, India · [Portfolio](https://devansh05.vercel.app) · [LinkedIn](https://l
 
 ---
 
-### Executive Summary
+B.Tech Computer Science student at GH Raisoni University specializing in software engineering, core systems design, and a little bit cryptography. Track record includes publishing peer-reviewed research with IEEE, maintaining open-source infrastructure tools on PyPI, and serving as an active peer reviewer for international technical conferences.
 
-B.Tech Computer Science student at GH Raisoni University specializing in low-level cryptography, software engineering, and core systems design. Track record includes publishing peer-reviewed research with IEEE, maintaining open-source infrastructure tools with 50K+ downloads on PyPI, and serving as an active peer reviewer for international technical conferences.
----
-
-### Core Engineering Arsenal
+### Engineering Tech Stack
 
 * **Languages:** C, C++, Python, JavaScript/TypeScript
-* **Backend & AI Systems:** Node.js, FastAPI, Django, Socket.io, OpenCV
+* **Backend:** Node.js, FastAPI, Django, Socket.io
 * **Frontend Infrastructure:** Next.js, React, TailwindCSS
 * **Cloud & DevOps:** AWS, Docker, GitHub Actions, Cloudflare, Supabase
 * **Databases:** PostgreSQL, MySQL, Prisma ORM
@@ -22,12 +19,12 @@ B.Tech Computer Science student at GH Raisoni University specializing in low-lev
 
 ### Key Open-Source Projects & Research
 
-#### **[ChronoMap](https://github.com/Chronomap-org)** — *Author & Maintainer*
+#### **[ChronoMap](https://github.com/Chronomap-org)** - *Author & Maintainer*
 * Published Python package for time-series geospatial visualization and mapping.
 * Reached **50,000+ downloads** on PyPI.
 * `pip install chronomap`
 
-#### **[Flytora](https://flytora.com)** — *Creator*
+#### **[Flytora](https://flytora.com)** - *Creator*
 * Browser-rendered interactive game engine utilizing HTML5 Canvas and custom JavaScript optimization techniques.
 
 ---
@@ -52,12 +49,12 @@ B.Tech Computer Science student at GH Raisoni University specializing in low-lev
 
 | Role | Organization | Focus / Venue | Timeline |
 | :--- | :--- | :--- | :--- |
-| **R&D Intern** | CSIR - National Chemical Lab | Computational Systems & Research | Aug 2026 – Present |
-| **SDE Intern (Team Lead)** | Cubane™ | Software Engineering & Leadership | Jun 2026 – Sept 2026 |
-| **Peer Reviewer** | IEEE 3ICT 2026 | Information & Comm. Tech | Jul 2026 – Sept 2026 |
-| **Peer Reviewer** | IEEE MobiApps 2026 | Mobile Apps & Open Networks | Mar 2026 – Jul 2026 |
-| **Peer Reviewer** | IEEE FET 2026 | Frontiers in Engineering & Tech | Jan 2026 – Mar 2026 |
-| **Peer Reviewer** | IEEE 3ICT 2025 / Univ. of Bahrain | Information & Comm. Tech | Sep 2025 – Nov 2025 |
+| **R&D Intern** | CSIR - National Chemical Lab | Computational Systems & Research | Aug 2026 - Present |
+| **SDE Intern (Team Lead)** | Cubane™ | Software Engineering & Leadership | Jun 2026 - Sept 2026 |
+| **Peer Reviewer** | IEEE 3ICT 2026 | Information & Comm. Tech | Jul 2026 - Sept 2026 |
+| **Peer Reviewer** | IEEE MobiApps 2026 | Mobile Apps & Open Networks | Mar 2026 - Jul 2026 |
+| **Peer Reviewer** | IEEE FET 2026 | Frontiers in Engineering & Tech | Jan 2026 - Mar 2026 |
+| **Peer Reviewer** | IEEE 3ICT 2025 / Univ. of Bahrain | Information & Comm. Tech | Sep 2025 - Nov 2025 |
 
 
 #### Selected Competition Wins (8× Hackathon Winner)
