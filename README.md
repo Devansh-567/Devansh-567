@@ -260,7 +260,7 @@ pip install chronomap
 
 <div align="center">
 
-> *"I don't just build projects — I build things people actually use."*
+> *"The first three letters of my name defines what I do"*
 
 </div>
 
