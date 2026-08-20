@@ -1,6 +1,6 @@
 # Devansh Singh
 
-**Full Stack & Systems Engineer | Cybersecurity & AI Researcher**  
+**Software Engineer & Academic Reviewer | Peer Reviewer & Open-Source Author**  
 Pune, India · [Portfolio](https://devansh05.vercel.app) · [LinkedIn](https://linkedin.com/in/devansh050607) · [Email](mailto:devansh.jay.singh@gmail.com) · [GitHub](https://github.com/Devansh-567)
 
 ---
